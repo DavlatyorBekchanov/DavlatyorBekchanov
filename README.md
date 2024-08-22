@@ -35,9 +35,9 @@ I work remotely and like to travel a lot.
 <code> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40px"> </code>
 <br><br>
 
-- 📍 &nbsp; Current location: Navoi, Uzbekiston
+- 📍 &nbsp; Current location:  Deutschland
 - 📝 &nbsp; Ask me about anything, I am happy to help
-- 📨 &nbsp; How to reach me: [@AlimardonToshpulatov](https://t.me/Telegram)
+- 📨 &nbsp; How to reach me: [@DavlatyorBekchanov]
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FADD92&height=120&section=footer"/>
 <img width="100%" src="https://github.com/omadli/omadli/raw/master/output/github-contribution-grid-snake.svg" />
